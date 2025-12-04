@@ -1,0 +1,224 @@
+0 Birthday Month: January
+1 Birthday Month: February
+2 Birthday Month: March
+3 Birthday Month: April
+4 Birthday Month: May
+5 Birthday Month: June
+6 Birthday Month: July
+7 Birthday Month: August
+8 Course Taken: Economics
+9 Course Taken: Calculus
+10 Course Taken: Statistics
+11 Course Taken: Programming
+12 Course Taken: Biology
+13 Major/Focus: Business
+14 Major/Focus: Engineering
+15 Major/Focus: Arts & Humanities
+16 Major/Focus: Computer Science
+17 Major/Focus: Social Sciences
+18 Major/Focus: Finance
+19 Major/Focus: Marketing
+20 Degree: High School
+21 Degree: Associate’s
+22 Degree: Bachelor’s
+23 Degree: Master’s
+24 School Attended: University A
+25 School Attended: University B
+26 School Attended: University C
+27 School Attended: University D
+28 School Attended: University E
+29 School Attended: University F
+30 School Attended: University G
+31 School Attended: University H
+32 School Attended: University I
+33 School Attended: University J
+34 School Attended: University K
+35 School Attended: University L
+36 School Attended: University M
+37 School Attended: University N
+38 School Attended: University O
+39 School Attended: University P
+40 School Attended: University Q
+41 School Attended: University R
+42 School Attended: University S
+43 School Attended: University T
+44 School Attended: University U
+45 School Attended: University V
+46 School Attended: University W
+47 School Attended: University X
+48 School Attended: University Y
+49 School Attended: University Z
+50 School Attended: Community College A
+51 School Attended: Community College B
+52 School Attended: Community College C
+53 Education Type: Public School
+54 Education Type: Private School
+55 Education Type: International School
+56 Studied With Group: Group A
+57 Graduation Year: 2005
+58 Graduation Year: 2006
+59 Graduation Year: 2007
+60 Graduation Year: 2008
+61 Graduation Year: 2009
+62 Graduation Year: 2010
+63 Graduation Year: 2011
+64 Graduation Year: 2012
+65 Graduation Year: 2013
+66 Graduation Year: 2014
+67 Graduation Year: 2015
+68 Graduation Year: 2016
+69 Graduation Year: 2017
+70 Graduation Year: 2018
+71 Graduation Year: 2019
+72 Graduation Year: 2020
+73 First Name Initial: A–D
+74 First Name Initial: E–H
+75 First Name Initial: I–L
+76 First Name Initial: M–P
+77 Gender: Male
+78 Gender: Female
+79 Hometown: Chicago
+80 Hometown: Los Angeles
+81 Hometown: New York
+82 Hometown: Houston
+83 Hometown: San Francisco
+84 Hometown: Seattle
+85 Hometown: Dallas
+86 Hometown: Miami
+87 Hometown: Boston
+88 Hometown: Washington DC
+89 Hometown: Philadelphia
+90 Speaks Language: English
+91 Speaks Language: Spanish
+92 Speaks Language: Chinese
+93 Speaks Language: Hindi
+94 Speaks Language: French
+95 Speaks Language: German
+96 Speaks Language: Korean
+97 Speaks Language: Japanese
+98 Speaks Language: Arabic
+99 Speaks Language: Russian
+100 Speaks Language: Portuguese
+101 Speaks Language: Italian
+102 Speaks Language: Vietnamese
+103 Speaks Language: Tagalog
+104 Last Name Initial: A–D
+105 Last Name Initial: E–H
+106 Last Name Initial: I–L
+107 Last Name Initial: M–P
+108 Last Name Initial: Q–T
+109 Last Name Initial: U–Z
+110 Last Name: Contains “son”
+111 Last Name: Contains “man”
+112 Last Name: Contains “lee”
+113 Last Name: Contains “wood”
+114 Last Name: Contains “ford”
+115 Last Name: Contains “hall”
+116 Last Name: Contains “wright”
+117 Last Name: Contains “hill”
+118 Last Name: Contains “king”
+119 Last Name: Contains “moore”
+120 Last Name: Contains “young”
+121 Last Name: Contains “green”
+122 Last Name: Contains “clark”
+123 Last Name: Contains “brown”
+124 Last Name: Contains “white”
+125 Locale: United States
+126 Locale: Europe
+127 Locale: Asia
+128 Lives In: Chicago
+129 Lives In: Los Angeles
+130 Lives In: New York
+131 Lives In: Houston
+132 Lives In: San Francisco
+133 Lives In: Seattle
+134 Lives In: Dallas
+135 Lives In: Miami
+136 Lives In: Boston
+137 Lives In: Washington DC
+138 Lives In: Philadelphia
+139 Works At: Company A
+140 Works At: Company B
+141 Works At: Company C
+142 Works At: Company D
+143 Works At: Company E
+144 Works At: Company F
+145 Works At: Company G
+146 Works At: Company H
+147 Works At: Company I
+148 Works At: Company J
+149 Works At: Company K
+150 Works At: Company L
+151 Works At: Company M
+152 Works At: Company N
+153 Works At: Company O
+154 Works At: Company P
+155 Works At: Company Q
+156 Works At: Company R
+157 Works At: Company S
+158 Works At: Company T
+159 Works At: Company U
+160 Works At: Company V
+161 Work End Year: 2010
+162 Work End Year: 2011
+163 Work End Year: 2012
+164 Work End Year: 2013
+165 Work End Year: 2014
+166 Work End Year: 2015
+167 Work End Year: 2016
+168 Work End Year: 2017
+169 Work End Year: 2018
+170 Work End Year: 2019
+171 Work End Year: 2020
+172 Work End Year: 2021
+173 Work Location: Chicago
+174 Work Location: Los Angeles
+175 Work Location: New York
+176 Work Location: Houston
+177 Work Location: San Francisco
+178 Work Location: Seattle
+179 Work Location: Dallas
+180 Work Location: Miami
+181 Work Location: Boston
+182 Work Location: Washington DC
+183 Work Location: Philadelphia
+184 Job Position: Analyst
+185 Job Position: Manager
+186 Job Position: Engineer
+187 Job Position: Consultant
+188 Job Position: Designer
+189 Job Position: Associate
+190 Job Position: Director
+191 Job Position: Technician
+192 Job Position: Coordinator
+193 Job Position: Specialist
+194 Job Position: Assistant
+195 Job Position: Supervisor
+196 Job Position: Administrator
+197 Job Position: Strategist
+198 Job Position: Developer
+199 Job Position: Recruiter
+200 Job Position: Researcher
+201 Work Start Year: 2010
+202 Work Start Year: 2011
+203 Work Start Year: 2012
+204 Work Start Year: 2013
+205 Work Start Year: 2014
+206 Work Start Year: 2015
+207 Work Start Year: 2016
+208 Work Start Year: 2017
+209 Work Start Year: 2018
+210 Work Start Year: 2019
+211 Work Start Year: 2020
+212 Work Start Year: 2021
+213 Work Start Year: 2022
+214 Work Start Year: 2023
+215 Work Start Year: 2024
+216 Work Team: Team A
+217 Work Team: Team B
+218 Work Team: Team C
+219 Work Team: Team D
+220 Work Team: Team E
+221 Work Team: Team F
+222 Work Team: Team G
+223 Work Collaboration Group: Group X
